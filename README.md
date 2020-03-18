@@ -4,7 +4,8 @@ Classes guides, case studies and programming examples.
 # Content
 * Python classes guides: python-classes/ 
 * Software projects in python: python-projects/   
-* Notes for Cisco Courses and Certifications: Cisco/  
+* Bash programming examples: bash-notebook/
+* Notes for Cisco Courses and Certifications: cisco-notebook/  
 
 # See  
 * [My personal C programming library](https://github.com/augustomatheuss/mylibc)  
