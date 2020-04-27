@@ -1,4 +1,4 @@
-# PYTHON programming classes guide  
+# Jupyter Reports 
 
 ## Content
 * gender1.ipynb  
