@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 """
+This file is part of the project adlabs
+See https://github.com/augustomatheuss/adlabs/
+
 Basic Types: https://docs.python.org/3/library/stdtypes.html
 
 Principal built-in Types:

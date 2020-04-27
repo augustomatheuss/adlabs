@@ -3,17 +3,17 @@
 
 # Content  
 
-## Python classes guides  
-* [python-classes](https://github.com/augustomatheuss/adlabs/tree/master/python-classes)
+* Python classes guides  : [python-classes/](https://github.com/augustomatheuss/adlabs/tree/master/python-classes)
 
-## Software projects in python  
-* [python-projects](https://github.com/augustomatheuss/adlabs/tree/master/python-projects)   
+* Projects in python : [python-projects/](https://github.com/augustomatheuss/adlabs/tree/master/python-projects)   
 
-## Bash programming examples  
-* [bash-notebook](https://github.com/augustomatheuss/adlabs/tree/master/bash-notebook)
+* Jupyter Reports : [jupyter-reports/](https://github.com/augustomatheuss/adlabs/tree/master/jupyter-reports)   
 
-## Notes for Cisco Courses and Certifications  
-* [cisco-notebook](https://github.com/augustomatheuss/adlabs/tree/master/cisco-notebook)
+* Bash programming examples : [bash-notebook/](https://github.com/augustomatheuss/adlabs/tree/master/bash-notebook)   
+
+* List of Open Source Data Sets : [datasets.md](https://github.com/augustomatheuss/adlabs/tree/master/datasets.md)   
+
+* Notes for Cisco Courses and Certifications : [cisco-notebook/](https://github.com/augustomatheuss/adlabs/tree/master/cisco-notebook)
 
 # See  
 * [My personal C programming library](https://github.com/augustomatheuss/mylibc)  
