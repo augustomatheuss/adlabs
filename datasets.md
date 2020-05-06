@@ -40,9 +40,11 @@
 38. https://www.reddit.com/r/datasets/
 39. https://archive.ics.uci.edu/ml/index.php
 40. http://academictorrents.com/
+41. Google Finance in Google Sheets
 
 
 
 ## References
 * [Forbes](https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#48bfcec8b54d)
 * [towards data science](https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334)
+* [GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en)
