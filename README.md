@@ -1,22 +1,34 @@
 # adlabs
-### Classes guides, case studies and programming examples.   
+## My classes' courseware
 
-# Content  
+# How it's organized?
 
-* Python classes guides  : [python-classes/](https://github.com/augustomatheuss/adlabs/tree/master/python-classes)
+* Each class has a code with three letters (the area) and three numbers (the class number).
+    * Example: ANN001 is the class 1 in artificial neural networks.
+* There is a folder by area.
+* Each class can be:
+    * a markdown text file
+    * a jupyter notebook
+    * a software
+    * a pdf file
+    * a video
+	* a folder with several files
 
-* Projects in python : [python-projects/](https://github.com/augustomatheuss/adlabs/tree/master/python-projects)   
+# Areas  
 
-* Jupyter Reports : [jupyter-reports/](https://github.com/augustomatheuss/adlabs/tree/master/jupyter-reports)   
+| Area | Description |
+| -- | -- |  
+| **ann** | Artificial Neural Networks | 
+| **dat** | Data Science | 
+| **nix** | Unix and unix-like | 
+| **net** | Computer Networks | 
+| **pyb** | Python Basic | 
+| **pyj** | Jupyter Reports |
 
-* Bash programming examples : [bash-notebook/](https://github.com/augustomatheuss/adlabs/tree/master/bash-notebook)   
-
-* List of Open Source Data Sets : [datasets.md](https://github.com/augustomatheuss/adlabs/tree/master/datasets.md)   
-
-* Notes for Cisco Courses and Certifications : [cisco-notebook/](https://github.com/augustomatheuss/adlabs/tree/master/cisco-notebook)
 
 # See  
 * [My personal C programming library](https://github.com/augustomatheuss/mylibc)  
 * [Gin Shell or GSH](https://github.com/augustomatheuss/gsh)  
-* [Well documented implementations and case studies of artificial intelligence algorithms](https://github.com/augustomatheuss/ia-hub)  
+* [ia-hub: Well documented implementations and case studies of artificial intelligence algorithms](https://github.com/augustomatheuss/ia-hub)  
 * [My Data Science package](https://github.com/augustomatheuss/myds)  
+
